@@ -1,0 +1,52 @@
+{
+  "movieList":[
+  {
+    "name": "Nazwa filmu",
+    "title": "Tytuł filmu",
+    "publicationYear": 2000,
+    "director": {
+      "firstName": "Imierezysera",
+      "lastName": "Nazwiskorezysera"
+    },
+    "type": "gatunek",
+    "actors": [
+      {
+        "firstName": "imieaktora1",
+        "lastName": "nazwiskoaktora1"
+      },
+      {
+        "firstName": "imieaktora2",
+        "lastName": "nazwiskoaktora2"
+      },
+      {
+        "firstName": "imieaktora3",
+        "lastName": "nazwiskoaktora3"
+      }
+    ]
+  },
+  {
+    "name": "Nazwa filmu2",
+    "title": "Tytuł filmu2",
+    "publicationYear": 2002,
+    "director": {
+      "firstName": "Imierezysera2",
+      "lastName": "Nazwiskorezysera2"
+    },
+    "type": "gatunek2",
+    "actors": [
+      {
+        "firstName": "2imieaktora2",
+        "lastName": "2nazwiskoaktora2"
+      },
+      {
+        "firstName": "imieaktora22",
+        "lastName": "nazwiskoaktora22"
+      },
+      {
+        "firstName": "imieaktora32",
+        "lastName": "nazwiskoaktora32"
+      }
+    ]
+  }
+  ]
+}
